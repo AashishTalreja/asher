@@ -295,7 +295,7 @@ Developed for **Bihar Cyber Hackathon 2026** under Problem Statement 01.
 |---|---|
 | **Nishant Kumar** | System Architecture, Terminal UI (`cli/app.py`), Baseline Deviation Engine |
 | **Aashish Talreja** | ML Classifier (`core/ml.py`), Graph Ops & BFS Tracer (`core/graph_ops.py`) |
-| **Ayush Raj** | Data Generator (`data_gen/`), NCRP RapidFuzz Correlator, BSA §63 PDF Generator |
+| **Akshat Kumar** | Data Generator (`data_gen/`), NCRP RapidFuzz Correlator, BSA §63 PDF Generator |
 
 ---
 
